@@ -27,6 +27,10 @@ class LoginForm extends Component {
       })
   }
 
+  testing()
+  {
+    
+  }
 
   handleLogin = (e) => {
     this.setState({
